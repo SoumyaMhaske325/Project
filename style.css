@@ -1,0 +1,19 @@
+input{
+    margin: 10px;
+}
+body{
+    background-color: lightcoral;
+}
+#submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: navy;
+    color: lime;
+}
+#sort{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(248, 34, 6);
+    color: lime;
+}
